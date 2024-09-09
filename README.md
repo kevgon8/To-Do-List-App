@@ -61,6 +61,9 @@ To run the GUI-based To-Do List app:
 3. **Track Progress**: The progress bar updates automatically based on the number of tasks completed.
 
 ## Terminal Version
+**Video Demo:**  
+[![Watch the video](https://img.youtube.com/vi/q6q1k0nFOy4/hqdefault.jpg)](https://youtu.be/q6q1k0nFOy4)
+
 ### Features
 - **Simple CLI Interface**: Users can add, view, and mark tasks as completed directly from the terminal.
 - **Task Saving**: Tasks are saved in a text file with an easy-to-read format.
