@@ -26,6 +26,8 @@ Both versions allow users to add, view, and manage tasks, but each provides a di
 - [Contact](#contact)
 
 ## GUI Version
+**Video Demo:**  
+[![Watch the video](https://img.youtube.com/vi/LaeNEpqk-MU/hqdefault.jpg)](https://youtube.com/shorts/LaeNEpqk-MU?si=QmQNENuo0i36bH8Q)
 
 ### Features
 - **Task Management**: Add, view, and delete tasks with ease.
