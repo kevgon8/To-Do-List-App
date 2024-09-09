@@ -1,7 +1,4 @@
 # To Do List App
-**Video Demo:**  
-[![Watch the video](https://img.youtube.com/vi/LaeNEpqk-MU/hqdefault.jpg)](https://youtube.com/shorts/LaeNEpqk-MU?si=QmQNENuo0i36bH8Q)
-
 
 ## Description
 This project was created as part of the selection round for the SRM ACM Student Chapter club in my college. It consists of two versions of a To-Do List application:
