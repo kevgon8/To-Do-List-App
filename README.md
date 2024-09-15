@@ -125,7 +125,7 @@ Kevin Gonsalves
 ***Please be sure to check out my other repositories too!***
 - [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer)
 - [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets-Solutions)
-- [SimpleUser Authentication System](https://github.com/kevgon8/User-Authentication-System)
+- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
 
 ## Contact
 For any questions or feedback, feel free to reach out:
