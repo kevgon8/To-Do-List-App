@@ -20,7 +20,6 @@ Both versions allow users to add, view, and manage tasks.
 - [Known Issues](#known-issues)
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 - [Author](#author)
 - [Contact](#contact)
 
@@ -96,28 +95,6 @@ python todo_cli.py
 ## Future Improvements
 - **GUI Enhancements**: Include the ability to edit tasks and switch between different colour themes.
 - **Terminal Version Improvements**: Add better input validation for task numbering and additional features like task deletion.
-
-## Contributing
-Contributions are welcome! Follow these steps:
-
-1. Fork the project
-
-2. Create a feature branch:
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-3. Commit your changes:
-```bash
-git commit -m 'Add AmazingFeature'
-```
-
-4. Push to the branch:
-```bash
-git push origin feature/AmazingFeature
-```
-
-5. Open a pull request
 
 ## Author
 Kevin Gonsalves
