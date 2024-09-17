@@ -6,7 +6,7 @@ This project was created as part of the selection round for the SRM ACM Student 
 1. A **GUI-based version** built using Python, Tkinter, and ttkbootstrap.
 2. A **Terminal-based version** that runs entirely in the command-line interface (CLI).
 
-Both versions allow users to add, view, and manage tasks, but each provides a different user experience based on preference.
+Both versions allow users to add, view, and manage tasks.
 
 ## Table of Contents
 - [GUI Version](#gui-version)
